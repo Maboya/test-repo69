@@ -1,7 +1,2 @@
-class hello
-{
-   Public static void main() 
+class hello{
 }
-
-
-
